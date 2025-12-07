@@ -89,4 +89,5 @@ streamlit run app.py
 
 ## 📝 References
 * Schulman, J., et al. "Proximal policy optimization algorithms." arXiv preprint arXiv:1707.06347 (2017).
+
 * OpenAI Gymnasium Documentation: https://gymnasium.farama.org/environments/box2d/lunar_lander/
